@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Bloggr",
+      "live": "https://mc-project-2.herokuapp.com/posts",
+      "git": "https://github.com/matthewclosson/penguin_project2",
+      "image": "https://i.imgur.com/nny74Jm.png"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Quiz Game",
+      "live": "https://seir-penguin-project-1-mattwclosson.vercel.app/",
+      "git": "https://github.com/matthewclosson/trivia-game",
+      "image": "https://i.imgur.com/pmRtTfO.png"
     }
   ]
